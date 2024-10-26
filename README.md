@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moosil
-- 👀 I’m interested in learning to make a minecraft mod. I'm gonna try to at least
-- 🌱 I’m currently learning minecraft modding
+- 👀 I’m interested in learning godot, c++ and anything else computer programming related
+- 🌱 I’m currently learning godot!
 
 <!---
 Moosil/Moosil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
